@@ -1,6 +1,3 @@
-# ESP8266 HomeKit WeatherUnderGround PWS Weather Station
-
-ESP8266 based  HomeKit Weather Underground PWS Weather Station using Bosch BME280 temperature, humidity, barometric pressure sensor, VEML6075 UV Index sensor, BH1750 light sensor and a Rain Gauge.
 
 ------
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
@@ -12,8 +9,14 @@ ESP8266 based  HomeKit Weather Underground PWS Weather Station using Bosch BM
 <br/>
 <br/>
 
+# ESP8266 HomeKit WeatherUnderGround PWS Weather Station
 
-**For Usage and Configuration please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-WeatherUnderGround-PWS/wiki/)!**<br/><br/>
+ESP8266 based  HomeKit Weather Underground PWS Weather Station using Bosch BME280 temperature, humidity, barometric pressure sensor, VEML6075 UV Index sensor, BH1750 light sensor and a Rain Gauge.
+
+
+<img src="https://icons.wxug.com/i/o/redesign/logo.gif" class="center"/>
+
+## For Usage and Configuration please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-WeatherUnderGround-PWS/wiki/)!
 
 <a href="https://www.wunderground.com/dashboard/pws/IGYNGYS6"><img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=wxstnsticker_metric&weatherstationcount=IGYNGYS6" height="160" width="160" border="5" alt="Weather Underground PWS IGYNGYS6" /></a> <a href="https://www.wunderground.com/dashboard/pws/IGYNGY1"><img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=wxstnsticker_metric&weatherstationcount=IGYNGYS1" height="160" width="160" border="5" alt="Weather Underground PWS IGYNGY1" /></a>
 
