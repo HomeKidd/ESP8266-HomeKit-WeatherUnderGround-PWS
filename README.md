@@ -15,8 +15,10 @@ ESP8266 based  HomeKit Weather Underground PWS Weather Station using Bosch BM
 
 **For Usage and Configuration please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-WeatherUnderGround-PWS/wiki/)!**<br/><br/>
 
-<a href="https://www.wunderground.com/dashboard/pws/IGYNGYS6"><img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=wxstnsticker_metric&weatherstationcount=IGYNGYS6" height="150" width="150" border="0" alt="Weather Underground PWS IGYNGYS6" /></a> 
-<a href="https://www.wunderground.com/dashboard/pws/IGYNGY1"><img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=wxstnsticker_metric&weatherstationcount=IGYNGYS1" height="150" width="150" border="5" alt="Weather Underground PWS IGYNGY1" /></a>
+<a href="https://www.wunderground.com/dashboard/pws/IGYNGYS6"><img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=wxstnsticker_metric&weatherstationcount=IGYNGYS6" height="160" width="160" border="5" alt="Weather Underground PWS IGYNGYS6" /></a>
+
+<a href="https://www.wunderground.com/dashboard/pws/IGYNGY1"><img src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=wxstnsticker_metric&weatherstationcount=IGYNGYS1" height="160" width="160" border="5" alt="Weather Underground PWS IGYNGY1" /></a>
+
 
 **Features:**
 
