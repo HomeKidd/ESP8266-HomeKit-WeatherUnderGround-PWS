@@ -23,14 +23,15 @@ ESP8266 based  HomeKit Weather Underground PWS Weather Station using [Bosch B
 
 **Features:**
 
-* Temperature
-* Humidity
+* Temperature Sensor
+* Humidity Sensor
 * Dew Point _(only when uploading to WunderGround)_
-* UV Index _(only in 3rd party HomeKit apps!)_
+* UV Index Sensor _(only in 3rd party HomeKit apps!)_
+* Light Sensor
+* Solar Radiation _(Watt/m2)_
+* Leak Sensor (_aka Rain "detection")_
+* Barometric Pressure Sensor _(only in 3rd party HomeKit apps!)_
 * Daily and Hourly Rain in mm _(only in 3rd party HomeKit apps!)_
-* Light intensity _(Lux and Watt/m2)_
-* Leak Sensor (_aka Rain detection)_
-* Barometric Pressure Measuring _(only in 3rd party HomeKit apps!)_
 * Custom characteristic for detecting your altitude _(used for proper barometric calculation)_
 * Custom characteristic for Temperature Sensor Offset _(only in 3rd party HomeKit apps!)_
 * Upload data to [Weather Underground](https://www.wunderground.com)
