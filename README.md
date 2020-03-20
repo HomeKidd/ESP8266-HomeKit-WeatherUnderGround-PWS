@@ -40,7 +40,7 @@ ESP8266 based  HomeKit Weather Underground PWS Weather Station using [Bosch B
 
 <br/>
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekifd_mockup_2.jpg" class="center" width="650"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-WeatherUnderGround-PWS/raw/master/images/wunderground.PNG" class="center" width="650"/>
 
 <br/>
 
