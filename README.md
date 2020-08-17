@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-# ESP8266 HomeKit WeatherUnderGround PWS Weather Station
+# ESP8266 HomeKit WeatherUnderGround PWS Weather Station ⛈
 
 ESP8266 based  HomeKit Weather Underground PWS Weather Station using [Bosch BME280](http://s.click.aliexpress.com/e/uTY0Z6C) temperature, humidity, barometric pressure sensor, [VEML6075](https://s.click.aliexpress.com/e/_dUdeNIj) UV Index sensor, [BH1750](https://s.click.aliexpress.com/e/_dTwkemh) light sensor and an [MISOL Rain Gauge](https://s.click.aliexpress.com/e/_dYOWPMF).
 
